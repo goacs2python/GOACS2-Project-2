@@ -1,24 +1,19 @@
-# Project 1
+# Project 2
 
 Please complete the problems on the assignment page as follows.
+
+YOU WILL USE THIS REPOSITORY FOR BOTH ASSIGNMENTS OF THIS PROJECT.
 
 ---
 
 ### Instructions
-- In the individualstrategies.py file, <ins>write 4 functions</ins>.
-     - The first 3 functions should be named as described on the assignment page
-     - The last function should be named with your first name and last initial. 
-        - For example, if your name is Ada Lovelace, your function name should be `adaLStrategy()`.
-     - Be sure to describe your strategy in a comment above the function.
-- Name each of your functions as detailed on the assignment page.
+- For the first assignment, create the Point, Vector, and Cell classes as outlined in the templates and pseudocode given to you in Canvas.
 
-- In the groupstrategies.py file, write <ins>at least 1 function</ins>.
-     - You only have to submit the functions that you write as the "driver" in pair programming.
-     - <ins>Between you and your partner/group members, you should have a total of 3 strategies submitted</ins>.
-     - The functions should be named with the team name that you decided on together, then number your strategies 1-3. 
-        - For example, if your team name is Red Wings, your function names should be `redWingsStrategy1()`,  `redWingsStrategy2()`, and `redWingsStrategy3()`.
-     - Describe each of your strategies in comments above each function.
-     - **You and your partners' function names should be different**!
+- For the second assignment, be sure that you have
+     - 3 simulations that take data autonomously
+     - 3 files of data from those simulations
+     - 3 visualizations created from your data.
+
 - When you are finished, be sure to sync (commit and push) your code to GitHub
 
 ---
