@@ -7,7 +7,7 @@ YOU WILL USE THIS REPOSITORY FOR BOTH ASSIGNMENTS OF THIS PROJECT.
 ---
 
 ### Instructions
-- For the first assignment, create the Point, Vector, and Cell classes as outlined in the templates and pseudocode given to you in Canvas.
+- For the first assignment, create the `Point`, `Vector`, and `Cell` classes as outlined in the templates and pseudocode given to you in Canvas.
 
 - For the second assignment, be sure that you have
      - 3 simulations that take data autonomously
