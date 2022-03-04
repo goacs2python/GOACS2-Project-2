@@ -14,13 +14,11 @@ YOU WILL USE THIS REPOSITORY FOR BOTH ASSIGNMENTS OF THIS PROJECT.
      - 3 files of data from those simulations
      - 3 visualizations created from your data.
 
-- When you are finished, be sure to sync (commit and push) your code to GitHub
+- When you are finished, be sure to sync (commit and push) your code to GitHub and create screencasts to turn in to Canvas.
 
 ---
 
 ### Tips
-- Get in touch with your group early!
-    - The earlier you start, the more time you have to figure out our schedules and find time to meet.
 - Test your code. 
     - Find good stopping points to test out bits of code and
     functions even when your program is only partially finished. 
